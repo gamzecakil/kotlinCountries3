@@ -5,7 +5,8 @@ plugins {
     //safe args
     //navigation
     id'androidx.navigation.safeargs.kotlin'
-    
+    //data binding
+    id 'kotlin-kapt'
 }
 
 android {
